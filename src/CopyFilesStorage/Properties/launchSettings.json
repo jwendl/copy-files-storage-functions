@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CopyFilesStorage": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7016"
+    }
+  }
+}

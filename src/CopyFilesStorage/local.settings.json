@@ -1,0 +1,12 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+        "SourceStorageAccount__serviceUri": "https://jwsrcstorage.blob.core.windows.net",
+        //"SourceStorageAccount__credential": "managedidentity",
+        "DestinationStorageAccount__serviceUri": "https://jwdststorage.blob.core.windows.net",
+        //"DestinationStorageAccount__credential": "managedidentity",
+        "AzureWebJobsSecretStorageType": "files",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+    }
+}
